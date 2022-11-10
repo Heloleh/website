@@ -1,0 +1,25 @@
+body {
+    background: hotpink;
+}
+
+.container {
+    width: 100%;
+    max-width: 150px;
+    margin: 0 auto;
+}
+
+
+
+html, body {
+
+    height: 90vh;
+
+    background: url("../images/ykflm71667s21.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+
+
